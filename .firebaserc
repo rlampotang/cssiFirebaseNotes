@@ -1,6 +1,12 @@
 {
   "projects": {
+<<<<<<< HEAD
     "default": "cssi-frebasenotes",
     "dev": "cssi-frebasenotes"
   }
 }
+=======
+    "default": "newfirebasenotes"
+  }
+}
+>>>>>>> 330306548164ec3d61221d594d0d73a9c94ceb3f

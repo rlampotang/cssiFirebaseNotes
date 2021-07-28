@@ -11,12 +11,15 @@
     ]
   },
   "emulators": {
+<<<<<<< HEAD
     "auth": {
       "port": 9099
     },
     "database": {
       "port": 9000
     },
+=======
+>>>>>>> 330306548164ec3d61221d594d0d73a9c94ceb3f
     "hosting": {
       "port": 5000
     },
@@ -24,4 +27,8 @@
       "enabled": false
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 330306548164ec3d61221d594d0d73a9c94ceb3f
